@@ -8,18 +8,32 @@ body {
 /* Header */
 header {
     background-color: orange;
-    width: 612px;
+    max-width: 280px;
     text-align: center;
+    position: fixed;
+
 }
 
 /* Main */
 main {
     background-color: teal;
-    width: 612px;
+    max-width: 280px;
     text-align: center;
 }
 
 /* Footer */
 footer {
     background-color: lightblue;
+}
+
+#nav {
+    list-style-type: none;
+}
+
+#nav > li {
+    margin-bottom: 0.5em;
+}
+
+.image {
+    max-width: 280px;
 }
