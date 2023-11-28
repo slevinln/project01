@@ -1,11 +1,15 @@
 /* Header */
 header {
     background-color: orange;
+    width: 612px;
+    text-align: center;
 }
 
 /* Main */
 main {
     background-color: teal;
+    width: 612px;
+    text-align: center;
 }
 
 /* Footer */
