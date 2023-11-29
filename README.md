@@ -1,39 +1,71 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Malinois For You Website
 
-Welcome,
+The malinois is one of the most curated dog breeds in the world. Many people might be tempted to adopt this dog without knowing about their needs and demands. To help making that choice, this website ist designed to give information about the character, training requirements and other characteristics. After reading through the site, users should be able to make an educated decision if they want to adopt a dog of this breed.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+### Navigation Bar
 
-## Codeanywhere Reminders
+The navigation bar is featured on every page and allows the user to easily find the topic he needs more information for.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Landing Page
 
-`python3 -m http.server`
+The landing page gives a short introduction to the breed and the purpose of the website.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Footer
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Contains links to the social media of the website owner, who posts stories and pictures of malinois.
 
-`http_server`
+### Character Page
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The character page gives a description of the personality of the breed and the resulting behaviour.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Training Page
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The training page gives information about the necessary amount of training and the kinds of training the breed is suited for.
 
-To log into the Heroku toolbelt CLI:
+### Newsletter
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Anyone wanting up-to-date information on the breed can subscribe to the newsletter to get noteworthy news about malinois, like tournament performances or great achievements of working dogs.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Technologies Used
 
----
+The website is written in the following languages:
 
-Happy coding!
+HTML was used for the main site content.
+
+CSS was used for styling the design and layout.
+
+The font-family used is Rubik.
+
+## Testing
+
+### Validator Testing
+
+HTML has been tested through the official W3C validator with the result: INSERT FINAL RESULT
+
+CSS has been tested through the official Jigsaw validator with the result: INSERT FINAL RESULT
+
+Accessibility has been tested trrough Lighthouse with the result: INSERT SCORE OR SCREENSHOT OF THE SCORE
+
+### Unfixed Bugs
+
+DOCUMENT ALL UNFIXED BUGS HERE
+
+## Deployment
+
+The site was deployed to GitHub pages.
+
+The live link can be found here: INSERT LIVE LINK
+
+## Credit
+
+### Content
+
+Information was taken from the following sources: Wikipedia, INSERT OTHER SOURCES
+
+### Media
+
+Favicons were taken from Iconarchive.
+
+Images were taken from IStockphoto.
