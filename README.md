@@ -62,7 +62,7 @@ The live link can be found here: INSERT LIVE LINK
 
 ### Content
 
-Information was taken from the following sources: Wikipedia, INSERT OTHER SOURCES
+Information about the malinois was taken from the following sources: Wikipedia, INSERT OTHER SOURCES
 
 ### Media
 
