@@ -7,9 +7,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* General Styles */
 
 body {
     font-family: Rubik, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic Project Styles */
+    color: black;
 }
 
 /* Header */
@@ -24,6 +30,8 @@ main {
     background-color: teal;
     max-width: 280px;
     text-align: center;
+    /* Make main push the footer down */
+    flex: 1 0 auto;
 }
 
 /* Footer */
