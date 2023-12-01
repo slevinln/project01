@@ -1,4 +1,4 @@
-# The Malinois For You Website
+# The Malinois For You Website -- PROJECT IS ON HOLD --
 
 The malinois is one of the most curated dog breeds in the world. Many people might be tempted to adopt this dog without knowing about their needs and demands. To help making that choice, this website ist designed to give information about the character, training requirements and other characteristics. After reading through the site, users should be able to make an educated decision if they want to adopt a dog of this breed.
 
